@@ -27,6 +27,13 @@ li.pubs-element {
     font-size: 95%;
 }
 
+li.pubs-element-nested {
+    padding-bottom: 15px;
+    font-size: 95%;
+    font-style: italic;
+    font-family: Helvetica;
+}
+
 ul.pubs-list {
     text-align: left;
     list-style-type: square;
@@ -46,6 +53,12 @@ ul.job-element-list {
     list-style-type: none;
     padding-left: 10px;
     font-size: 100%;
+}
+
+ul.job-element-list-nested {
+
+    padding-top: 10px;
+
 }
 
 
