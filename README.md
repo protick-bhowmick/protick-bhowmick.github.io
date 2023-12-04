@@ -1,2 +1,2 @@
 
-# Home page of Protick    Bhowmick
+# Home page of Protick    Bhowmick (1994)
